@@ -1,0 +1,16 @@
+{
+  "name": "new3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
